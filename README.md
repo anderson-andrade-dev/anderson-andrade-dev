@@ -5,7 +5,7 @@
   ##
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Poster da Formação One da Oracle" height="200" width="200" src="https://github.com/anderson-andrade-dev/anderson-andrade-dev/blob/main/Slide1.JPG">
+    <img align="center" alt="Poster da Formação One da Oracle" height="400" width="400" src="https://github.com/anderson-andrade-dev/anderson-andrade-dev/blob/main/Slide1.JPG">
   </div>
   
   ##
