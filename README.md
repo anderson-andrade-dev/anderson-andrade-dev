@@ -1,7 +1,10 @@
 - 👋 Olá Sou Anderson Andrade
 - 👀 Estou Aprendendo Python 3
 - 🌱 Cursando Oracle One (Oracle Next Education) Turma 7
-  
+  ##
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Poster da Formação One da Oracle" height="200" width="200" src="">
+  </div>
   ##
   
 <h1>Tecnologias que uso</h1> 
