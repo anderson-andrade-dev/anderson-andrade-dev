@@ -1,7 +1,13 @@
-- 👋 Olá Sou Anderson Andrade
-- 👀 Estou Aprendendo Python 3
-- 🌱 Cursando Oracle One (Oracle Next Education) Turma 7
+- ☕☕☕ Olá Sou Anderson Andrade Desenvolvedor Java Web ☕☕☕
+- 👀👀👀 Estou Aprendendo Python 3 para análise de dados e Web Scraping.👀👀👀
+- 👨‍🎓👨‍🎓👨‍🎓 Cursando Oracle One (Oracle Next Education) Turma 7 2024.👨‍🎓👨‍🎓👨‍🎓
+- 🕵️‍♂️🕵️‍♂️🕵️‍♂️ Em Busca de novos desafios. 🕵️‍♂️🕵️‍♂️🕵️‍♂️
 
+  ##
+Livros que estou lendo:
+  - Web Scraping com Python Autor: Ryan Mitchell
+  - O Guia do Mochileiro Python Autor: Kenneth Reitz
+  - Java Efetivo Terceira Edição Autor: Joshua Bloch
   ##
   
   <div style="display: inline_block"><br>
