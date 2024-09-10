@@ -32,3 +32,8 @@ Livros que estou lendo:
   <a href="https://www.youtube.com/channel/UCvSL7LSOrdqWtQwaJFLfw-A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ <h2>Minhas Redes Sociais</h2>
+<div> 
+  <p>Menbro Legião Dev</p>
+   <a href="https://www.youtube.com/channel/UCVVSwlGPq0y4IuJDD58vT2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
