@@ -1,22 +1,29 @@
-- ☕☕☕ Olá Sou Anderson Andrade Desenvolvedor Java Web ☕☕☕
-- 👀👀👀 Estou Aprendendo Python 3 para análise de dados e Web Scraping.👀👀👀
-- 👨‍🎓👨‍🎓👨‍🎓 Cursando Oracle One (Oracle Next Education) Turma 7 2024.👨‍🎓👨‍🎓👨‍🎓
-- 🕵️‍♂️🕵️‍♂️🕵️‍♂️ Em Busca de novos desafios. 🕵️‍♂️🕵️‍♂️🕵️‍♂️
+# Bem-vindo ao Meu GitHub!
+
+## Sobre Mim
+
+Olá! Sou Anderson Andrade um engenheiro de software DevOps com especialização em **Java** e **Python**. Tenho vasta experiência na criação de soluções robustas e escaláveis, focadas em automação, integração contínua (CI/CD) e orquestração de containers utilizando tecnologias modernas como Docker e Kubernetes.
+  
+## Minhas Especialidades
+
+- **Desenvolvimento em Java e Python**
+  - Construção de APIs, scripts e sistemas altamente eficientes.
+- **DevOps**
+  - Integração Contínua (CI) e Entrega Contínua (CD) com ferramentas como Jenkins e GitHub Actions.
+- **Docker e Kubernetes**
+  - Criação e gerenciamento de containers para ambientes escaláveis.
+- **Cloud Computing**
+  - Implantação de soluções na AWS e Azure.
+
+## O que você encontra aqui
+
+Neste espaço, compartilho projetos que abrangem:
+- **Automação e Scripts**: Exemplos práticos para otimizar tarefas diárias.
+- **Projetos Open Source**: Colaborações para a comunidade DevOps e desenvolvimento.
+- **Tutoriais e Exemplos**: Repositórios educativos para ajudar outros desenvolvedores.
 
   ##
-Livros que estou lendo:
-  - Web Scraping com Python Autor: Ryan Mitchell
-  - O Guia do Mochileiro Python Autor: Kenneth Reitz
-  - Java Efetivo Terceira Edição Autor: Joshua Bloch
-  ##
   
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Poster da Formação One da Oracle" height="400" width="400" src="https://github.com/anderson-andrade-dev/anderson-andrade-dev/blob/main/Slide1.JPG">
-  </div>
-  
-  ##
-  
-<h1>Tecnologias que uso</h1> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,8 +38,4 @@ Livros que estou lendo:
 <div> 
   <a href="https://www.youtube.com/channel/UCvSL7LSOrdqWtQwaJFLfw-A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-andrade-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- <h2>Membro Legião Dev</h2>
-<div> 
-   <a href="https://www.youtube.com/channel/UCVVSwlGPq0y4IuJDD58vT2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
